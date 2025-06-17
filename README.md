@@ -23,7 +23,7 @@ A 10-page illustrated comic about decentralization, DAO, and the power of builde
 
 ### 🤲 This is a Public Good
 
-Built with ❤️ for the Starknet community by [@stephan1516417](https://twitter.com/stephan1516417)  
+Built with ❤️ for the Starknet community by [@milosz06202](https://[twitter.com/milosz06202]  
 Free to use, remix, translate, and share.
 
 ---
